@@ -1,0 +1,5 @@
+1. To activate the project
+conda activate "C:\Users\HP\Desktop\Data science\demo_1\env"
+
+2. to export the project
+conda env export --prefix /Users/daniel/Desktop/project_1/env > environment.yml
